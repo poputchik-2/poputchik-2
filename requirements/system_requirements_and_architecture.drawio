@@ -152,6 +152,14 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tKIZNPVzi6mgC040RjV1-16" value="&lt;div&gt;Financial Server&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(для работы с финансами)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="75" y="310" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tKIZNPVzi6mgC040RjV1-17" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="tKIZNPVzi6mgC040RjV1-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
