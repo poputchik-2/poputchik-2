@@ -4,3 +4,8 @@
 ## JavaScript Team
 
 ## Flutter Team
+
+# Storybook и скриншотные тесты
+## JavaScript Team
+
+## Flutter Team
