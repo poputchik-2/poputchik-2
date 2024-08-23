@@ -1,3 +1,6 @@
+# Общее предоставление об устройстве проекта и продукта
+![image](https://github.com/user-attachments/assets/d373bef9-ebb6-487a-8532-29259755d6bb)
+
 # Соглашение между GUI Team и Development Team
 
 # Мониторинг и обработка ошибок
